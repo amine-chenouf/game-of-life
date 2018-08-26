@@ -495,4 +495,11 @@
             </reporting>
         </profile>
     </profiles>
+    <distributionManagement>
+        <repository>
+            <id>releases</id>
+            <name>Releases</name>
+            <url>http://nexus-nexussss.apps.as.lab/content/repositories/releases/</url>
+        </repository>
+    </distributionManagement>
 </project>
